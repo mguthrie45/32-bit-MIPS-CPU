@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/guthr/Desktop/EDU/Semester 3/CMPEN331/Final Project/Final Project.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/guthr/Desktop/EDU/Semester 3/CMPEN331/Final Project/Final Project.srcs/sim_1/new/testbench.v,1607540482,verilog,,,,testbench,,,,,,,,
+C:/Users/guthr/Desktop/EDU/Semester 3/CMPEN331/Final Project/Final Project.srcs/sources_1/new/main_design.v,1608164451,verilog,,C:/Users/guthr/Desktop/EDU/Semester 3/CMPEN331/Final Project/Final Project.srcs/sim_1/new/testbench.v,,ALU;Control;DataMem;EXEMEMReg;Extender;ForwardingUnit;IDEXEReg;IFIDReg;InstrMem;MEMWBReg;Mux;Mux32x2;Mux3to1;PCAdder;PCReg;RegFile,,,,,,,,
